@@ -1,0 +1,5 @@
+{
+  "name": "SeismoGen: Earthquake Simulator",
+  "description": "An interactive earthquake simulator that visualizes seismic waves, estimates impact using AI, and educates users on earthquake physics and safety.",
+  "requestFramePermissions": []
+}
